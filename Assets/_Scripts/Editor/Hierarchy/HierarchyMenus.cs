@@ -14,6 +14,7 @@ public static class HierarchyMenus
 
 
         //CollapseHierarchyYasirkula.LogArrayInString( selected );
+        //CollapseHierarchyYasirkula.LogArrayInString( selected );
     }
 
     [ MenuItem( "GameObject/" + nameof( ShrinkWholeHierarchyExceptSelectedGo ), priority = 0 ) ]
