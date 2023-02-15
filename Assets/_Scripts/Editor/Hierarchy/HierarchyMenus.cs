@@ -14,7 +14,7 @@ public static class HierarchyMenus
 
 
         //CollapseHierarchyYasirkula.LogArrayInString( selected );
-        //3rd commit
+        //4rd fourth commit
     }
 
     [ MenuItem( "GameObject/" + nameof( ShrinkWholeHierarchyExceptSelectedGo ), priority = 0 ) ]
